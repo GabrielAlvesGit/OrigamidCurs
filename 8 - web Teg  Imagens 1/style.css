@@ -1,0 +1,12 @@
+/*max-width: 100% faz com que a imegam respeite sempre o eletemnto pai, responsividade*/
+/*Para tirar as margin entra as img usamos display:block
+width: 100%; não vou usar essa configuração pois sempre borra a imagem o recomendado é max-whidth
+*/
+img{
+  max-width: 100%;
+  display: block;
+}
+
+div{
+
+}
